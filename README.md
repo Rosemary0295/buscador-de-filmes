@@ -27,5 +27,15 @@ Projeto feito com HTML, CSS e JavaScript, utilizando a [API OMDb](http://www.omd
 - JavaScript (JS)
 - [OMDb API](http://www.omdbapi.com/)
 
+## ⚠️ Observações
+
+> Este projeto utiliza a [API OMDb](http://www.omdbapi.com/), que exige o uso de uma chave (API Key) válida.  
+> Para testar localmente, adicione sua chave no arquivo JavaScript conforme o exemplo abaixo:
+
+```js
+const apiKey = 'sua-chave-aqui';
+
+
+
 
 
